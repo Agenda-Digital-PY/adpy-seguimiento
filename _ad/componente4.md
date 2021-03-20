@@ -37,3 +37,8 @@ rating: 0
 __*__ el producto 20 y 22 fue eliminado, no se saben las razones de por que se introdujo y/o por que se sacó
 
 __**__ el producto 25 fueron cambiado de Estrategia a Acvitivdades
+
+# Licitaciones
+
+|Adjudicada |RUC|Descripción|Modalidad|US$|
+|BIEDERMANN PUBLICIDAD S.A.|80001437-5|SERVICIO DE CONSULTORIA PARA EL DISEÑO E IMPLEMENTACION DE LA ESTRATEGIA, PLANES Y CAMPAÑAS DE COMUNICACIÓN DEL PROGRAMA DE APOYO A LA AGENDA DIGITAL|SCC|[$125,373](https://www.contrataciones.gov.py/licitaciones/planificacion/387387-servicio-consultoria-diseno-e-implementacion-estrategia-planes-campanas-comunicacion-1.html)|
