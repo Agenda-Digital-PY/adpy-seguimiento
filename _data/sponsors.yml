@@ -1,0 +1,52 @@
+- tier_name: Platinum Sponsors
+  size: large
+  description: |-
+    Este sitio no existiría sin el excelente y magnifico trabajo de estas dos instituciones
+    Quienes con su mejor personal técnico diseñaron el plan
+  sponsors:
+    - name: El Banco Interamericano de Desarrollo
+      profile: https://iadb.org/es
+    - name: Ministerio de Tecnologías de la Información y Comunicación
+      profile: https://mitic.gov.py/
+- tier_name: Gold Sponsors
+  description: |-
+    La Agenda digital se viene diseñando desde el año 2015 y ha pasado por diferentes gestores
+    para tanto el diseño como la implementación de estos planes.
+  sponsors:
+    - name: David Ocampos
+      profile: https://twitter.com/ocamposdavid
+    - name: Miguel Martin
+      profile: https://twitter.com/mmartinpy
+    - name: Alejandro Peralta
+      profile: https://twitter.com/aperaltavierci
+    - name: Juan Manuel Brunetti
+      profile: https://twitter.com/brunettijuanma
+    - name: Fernando Saguier
+      profile: https://twitter.com/fersaguier
+
+- tier_name: Standard Sponsors
+  size: small
+  description: |-
+    Sin la contribución de diferentes personas no tendríamos el nivel y la calidad de la actual Agenda Digital
+  sponsors:
+    - name: Sebastián Ortiz (CISOFT)
+      profile: https://twitter.com/sebastianpy
+    - name: Julio Paciello
+      profile: https://twitter.com/juliopaciello
+    - name: Juan Pane
+      profile: https://twitter.com/pane_juan
+    - name: Leticia Romero
+      profile: https://twitter.com/Padmepy
+    - name: Giulliana Galli Campos Cervera
+      profile: https://github.com/
+    - name: Klaus Pistilli
+      profile: https://twitter.com/kpistilli
+    - name: Javier Quiñonez
+      profile: https://twitter.com/jjqc
+    - name: Dora Cristaldo
+      profile: https://twitter.com/doritacristaldo
+    - name: Angela Jara
+    - name: Rafael Palau
+      profile: https://twitter.com/rafapalauh
+    - name: Juan Ventura
+      profile: https://www.linkedin.com/in/juan-ventura-4033b729

@@ -1,0 +1,15 @@
+- name: Blog
+  link: /blog/
+- name: Agenda Digital
+  link: /ad/
+  dropdown:
+    - name: eGov
+      link: /ad/componente1
+    - name: Empresarial
+      link: /ad/componente2
+    - name: Infraestructura
+      link: /ad/componente3
+    - name: Organización
+      link: /ad/componente4
+    - name: Administración
+      link: /ad/componente5

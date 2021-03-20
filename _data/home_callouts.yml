@@ -1,0 +1,16 @@
+style: is-light
+items:
+  - title: Denunciamos
+    subtitle: En todas las RRSS
+    icon: fa-user-friends
+  - title: Colaboración
+    subtitle: Ofrecimos rediseñar colaborativamente
+    icon: fa-users
+  - title: Ninguneo
+    subtitle: Nos mintieron y luego nos ningunearon
+    icon: fas fa-user-alt-slash
+    icon_brand: true
+  - title: Monitoreo
+    subtitle: Ahora monitorearemos
+    icon: fas fa-user-clock
+    icon_brand: true    

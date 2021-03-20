@@ -1,0 +1,8 @@
+- name: Home
+  link: /
+- name: Blog
+  link: /blog/
+- name: Agenda Digital
+  link: /ad/
+- name: Privacy Policy
+  link: /privacy-policy/
