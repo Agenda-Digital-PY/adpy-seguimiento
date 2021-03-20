@@ -4,7 +4,7 @@ tagline: Análisis y monitoreo de la Agenda Digital del Paraguay
 email: info@agendadigital.com.py
 description: >
   En este sitio se realiza el análisis y monitoreo de la Agenda Digital del Paraguay
-baseurl: "/adpy-seguimiento/"
+baseurl: "/adpy-seguimiento"
 url: ""
 permalink: pretty
 #favicon: /path/to/favicon.png
