@@ -5,7 +5,7 @@ email: info@agendadigital.com.py
 description: >
   En este sitio se realiza el análisis y monitoreo de la Agenda Digital del Paraguay
 baseurl: "/adpy-seguimiento"
-url: ""
+url: "https://agenda-digital-py.github.io"
 permalink: pretty
 #favicon: /path/to/favicon.png
 gh_sponsor: angatupyrytau
