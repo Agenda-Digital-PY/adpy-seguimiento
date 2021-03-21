@@ -21,7 +21,7 @@ En la foto podemos observar a varios de los diseñadores de este plan (De izq a 
 * [Julio Paciello (CEAMSO?)](https://twitter.com/juliopaciello)
 * [Juan Pane (CEAMSO?)](https://twitter.com/pane_juan)
 * [Leticia Romero (SENATICS)](https://twitter.com/Padmepy)
-* Giulliana Galli Campos Servera (SENATICS)
+* [Giulliana Galli Campos Servera (SENATICS)](https://twitter.com/GalliGiuliana)
 * [Parado Rafael Palau (STP?)](https://twitter.com/rafapalauh)
 * [Juan Ventura (BID)](https://www.linkedin.com/in/juan-ventura-4033b729)
 * Angela Jara (SENATICS)
@@ -50,7 +50,7 @@ En la pizarra de esta foto se puede entresacar la siguiente información:
 |Liderazgos| USD$ 10.000.000|
 |Portal Inversión| USD$ 3.000.000|
 
-[![Pizarra](/img/20170913-plannacionalticsplanpizarra.jpg)](http://google.com.au/)
+[![Pizarra](/adpy-seguimiento/img/20170913-plannacionalticsplanpizarra.jpg)](http://google.com.au/)
 
 
 Conjuntamente con otras personas en diferentes reuniones se fue definiendo la Agenda Digital en el tiempo.
