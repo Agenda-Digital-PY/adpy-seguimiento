@@ -14,6 +14,7 @@ features:
     - label: 5.45% de avance a febrero 2021
       icon: fa-fighter-jet
 rating: 0
+graph: 'plotly-barra-cv-ejecutadoFebrero2021.html'
 ---
 
 # Resultados Esperados

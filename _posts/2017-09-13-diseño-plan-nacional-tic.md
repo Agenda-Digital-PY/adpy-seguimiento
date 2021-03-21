@@ -5,7 +5,7 @@ author: SENATICs
 date:   2017-09-13 04:18:07
 description: "E"
 image: '/img/20170913-plannacionalticsreunion.jpg'
-hero_image: /img/20170913-plannacionalticsreunion.jpg
+hero_image: '/img/20170913-plannacionalticsreunion.jpg'
 hero_height: is-large
 published: true
 tags: ocampos agenda-digital senatics plan-nacional-tic ceamso cisoft

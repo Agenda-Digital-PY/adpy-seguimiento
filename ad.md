@@ -4,12 +4,12 @@ title:  "Agenda Digital"
 author: BID
 date:   2018-08-16 04:18:07
 description: "La Agenda Digital desde la Matriz de Planificación"
-image: '/img/20190101-matrizderesultados.png'
-hero_image: '/img/20190101-matrizderesultados.png'
+image: '../img/20190101-matrizderesultados.png'
+hero_image: '../img/20190101-matrizderesultados.png'
 hero_height: is-large
 published: true
 tags: agenda-digital senatics mitic bid 
-graph: 'ejecutadoAcumuladoFebrero2021.html'
+graph: 'plotly-barraTotal.html'
 ---
 
 # La Agenda Digital desde la Matriz de Planificación

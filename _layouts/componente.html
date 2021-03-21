@@ -43,7 +43,10 @@ layout: default
         <p class="title is-4">Descripción</p>
         <div class="content">
             
-    
+            {% if page.graph %}
+                {% include {{ page.graph }} %} 
+            {% endif %}
+      
             {{ content }}
         </div>
     </div>
