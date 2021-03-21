@@ -18,15 +18,15 @@ En la foto podemos observar a varios de los diseñadores de este plan (De izq a 
 
 * Dora Cristaldo (SENATICS)
 * [Sebastián Ortiz (CISOFT)](https://twitter.com/sebastianpy/status/913595180527357953)
-* Julio Paciello (CEAMSO?)
-* Juan Pane (CEAMSO?)
-* Leticia Romero (SENATICS)
+* [Julio Paciello (CEAMSO?)](https://twitter.com/juliopaciello)
+* [Juan Pane (CEAMSO?)](https://twitter.com/pane_juan)
+* [Leticia Romero (SENATICS)](https://twitter.com/Padmepy)
 * Giulliana Galli Campos Servera (SENATICS)
-* Parado Rafael Palau (STP?)
-* Juan Ventura (BID)
+* [Parado Rafael Palau (STP?)](https://twitter.com/rafapalauh)
+* [Juan Ventura (BID)](https://www.linkedin.com/in/juan-ventura-4033b729)
 * Angela Jara (SENATICS)
-* Klaus Pistilli (SENATICS)
-* Javier Quiñonez (SENATICS)
+* [Klaus Pistilli (SENATICS)](https://twitter.com/kpistilli)
+* [Javier Quiñonez (SENATICS)](https://twitter.com/jjqc)
 
 En la pizarra de esta foto se puede entresacar la siguiente información:
 
