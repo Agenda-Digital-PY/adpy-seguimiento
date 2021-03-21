@@ -7,7 +7,12 @@ layout: default
     <p>Publicado: {{ page.date | date: "%b %-d, %Y" }} por {{ page.author }}</p>
 
     {{ content }}
-</div>
+
+    {% if page.graph %}
+      {% include {{ page.graph }} %} 
+    {% endif %}
+
+  </div>
 
 <div class="tags">
     {% for tag in page.tags %}

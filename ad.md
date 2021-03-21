@@ -9,6 +9,7 @@ hero_image: '/img/20190101-matrizderesultados.png'
 hero_height: is-large
 published: true
 tags: agenda-digital senatics mitic bid 
+graph: 'ejecutadoAcumuladoFebrero2021.html'
 ---
 
 # La Agenda Digital desde la Matriz de Planificación
@@ -20,3 +21,4 @@ En cada uno de estos items colocamos el contenido de diversos archivos que obtuv
 Este archivo excel fue solicitado en diversas oportunidades y nos fue negado en todos los pedidos que se realizó [I](https://informacionpublica.paraguay.gov.py/portal/#!/ciudadano/solicitud/15313), [II](https://informacionpublica.paraguay.gov.py/portal/#!/ciudadano/solicitud/20022), [III](https://informacionpublica.paraguay.gov.py/portal/#!/ciudadano/solicitud/20496), [IV](https://informacionpublica.paraguay.gov.py/portal/#!/ciudadano/solicitud/21668), [V](https://informacionpublica.paraguay.gov.py/portal/#!/ciudadano/solicitud/23218).
 
 Por primera vez en uno de los pedidos de [febrero 2021](https://informacionpublica.paraguay.gov.py/portal/#!/ciudadano/solicitud/39498) publicaron otras áreas del documento. Aunque aún no fue actualizado en la página de documentación de la [Agenda Digital](https://www.mitic.gov.py/agenda-digital/documentos).
+
