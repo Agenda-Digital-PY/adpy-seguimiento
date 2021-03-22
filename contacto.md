@@ -14,4 +14,4 @@ tags: comunidad-tecnica
 # Contacto
 
 
-Podes encontrarons en todas las redes sociales, en especial en Telegram.
+Podes encontrarnos en todas las redes sociales, en especial en Telegram.
