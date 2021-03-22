@@ -13,3 +13,14 @@
       link: /ad/componente4
     - name: Administración
       link: /ad/componente5
+- name: RNFO
+  link: /rnfos/
+  dropdown:
+    - name: Estado actual
+      link: /rnfos/rnfo1
+- name: Consejo Estrategico
+  link: /consejoestrategico
+- name: Denuncias
+  link: /denuncias
+- name: Acerca de..
+  link: /contacto

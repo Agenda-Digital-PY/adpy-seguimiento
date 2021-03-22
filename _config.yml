@@ -82,3 +82,8 @@ collections:
     layout: componente
     image: https://via.placeholder.com/800x600
     show_sidebar: false    
+  rnfos: 
+    output: true
+    layout: rnfo
+    image: https://via.placeholder.com/800x600
+    show_sidebar: false        
