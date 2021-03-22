@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Ejecutivo anuncia nuevo ministro"
+title:  "Repercusiones en televisión"
 author: El péndulo
-date:   2021-02-08 04:18:07
-description: "Ejecutivo anuncia cambio de ministro presentando a Juan Manuel Brunetti"
-image: '/img/20210208-brunetti.jpg'
-hero_image: '/img/20210208-brunetti.jpg'
+date:   2019-07-22 04:18:07
+description: "Luego de meses de insistentes denuncias llegamos a 'el péndulo'"
+image: '/img/20190722-elpendulo.png'
+hero_image: '/img/20190722-elpendulo.png'
 hero_height: is-large
 published: true
 tags: comunidad ejecutivo ministro agenda-digital mitic
-canonical_url: /2021/02/08/nuevo-ministro-al-mitic.html
+canonical_url: /2019/07/22/repercusiones-television.html
 ---
 
 Luego de meses de presión, de denuncias, ingresamos a diversos programas de televisión donde se expuso la propuesta y parte de todas las denuncias que se realizaron. 
