@@ -2,16 +2,23 @@
     {% assign callouts=site.data.[page.callouts] %}
     <section class="hero {% if callouts.height %} {{ callouts.height }} {% else %} is-medium {% endif %} {{ callouts.style }}">
         <div class="hero-body">
-            <section class="hero is-danger">
-                <div class="hero-body">
-                  <p class="title">
-                    1.20%
-                  </p>
-                  <p class="subtitle">
-                    de avance a febrero 2021
-                  </p>
-                </div>
+            <div class="container is-centered">
+                <section class="hero is-danger">
+                    <div class="">
+                        <div class="hero-body is-centered">
+                        <p class="title  is-large has-text-centered">
+                            1.20%
+                        </p>
+                        <p class="subtitle has-text-centered">
+                            La Agenda Digital esta en Terapia. Es urgente reconducirlo<br>
+                            de avance a febrero 2021<br>
+                            Según datos del Ministerio de Hacienda
+                        </p>
+                        </div>
+                    </div>
               </section>
+            </div>
+            <br>
             <div class="container">
                 <div class="columns is-multiline is-centered">
                     {% for callout in callouts.items %}
