@@ -25,7 +25,7 @@
                         </div>
                     </div>
                     {% else %}
-                    <a href="{{relative_url }}" class="navbar-item {% if item.link == page.url %}is-active{% endif %}">{{ item.name }}</a>
+                    <a href="{{ item.link | relative_url }}" class="navbar-item {% if item.link == page.url %}is-active{% endif %}">{{ item.name }}</a>
                     {% endif %}
                 {% endfor %}
                 {% endif %}
@@ -34,7 +34,7 @@
             <div class="navbar-end">
                 {% if site.gh_sponsor %}
                 <!--https://github.com/sponsors/{{ site.gh_sponsor }}-->
-                <a class="navbar-item" href="{{ site.baseurl }}/sponsors">
+                <a class="navbar-item" href="/sponsors">
                     <span class="icon gh-sponsor"><i class="fas fa-heart"></i></span>
                     <span>Sponsors</span>
                 </a>
