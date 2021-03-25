@@ -13,4 +13,4 @@ tags: rnfo mitic
 
 # La Red Nacional de Fibra Óptica
 
-Sore esta red se viene hablando desde 1997. Este es el primer gobierno que toma acciones sobre la cuestión. No esta claro, cual es el plan, ni como se llevará a cabo. 
+Sobre esta red se viene hablando desde 1997. Este es el primer gobierno que toma acciones sobre la cuestión. No esta claro, cual es el plan, ni como se llevará a cabo. 
