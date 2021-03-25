@@ -50,7 +50,7 @@ En la pizarra de esta foto se puede entresacar la siguiente información:
 |Liderazgos| USD$ 10.000.000|
 |Portal Inversión| USD$ 3.000.000|
 
-[![Pizarra](/adpy-seguimiento/img/20170913-plannacionalticsplanpizarra.jpg)](http://google.com.au/)
+[![Pizarra](/img/20170913-plannacionalticsplanpizarra.jpg)](http://google.com.au/)
 
 
 Conjuntamente con otras personas en diferentes reuniones se fue definiendo la Agenda Digital en el tiempo.
