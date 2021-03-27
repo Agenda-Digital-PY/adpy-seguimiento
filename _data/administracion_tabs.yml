@@ -1,0 +1,19 @@
+alignment: is-left
+style: is-boxed
+size: is-large
+items:
+  - name: Administración
+    link: /ad/componente5
+    icon: fa-at
+  - name: Resultados Esperados
+    link: /ad/componente5_resultados_esperados
+    icon: fa-cart-arrow-down
+  - name: Productos
+    link: /ad/componente5_productos
+    icon: fa-barcode
+  - name: Licitaciones
+    link: /ad/componente5_licitaciones
+    icon: fa-bars
+  - name: Ejecución
+    link: /ad/componente5_ejecucion
+    icon: fa-running

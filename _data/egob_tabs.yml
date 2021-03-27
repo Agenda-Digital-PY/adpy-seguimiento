@@ -1,0 +1,19 @@
+alignment: is-left
+style: is-boxed
+size: is-large
+items:
+  - name: e-GoB
+    link: /ad/componente1
+    icon: fa-at
+  - name: Resultados Esperados
+    link: /ad/componente1_resultados_esperados
+    icon: fa-cart-arrow-down
+  - name: Productos
+    link: /ad/componente1_productos
+    icon: fa-barcode
+  - name: Licitaciones
+    link: /ad/componente1_licitaciones
+    icon: fa-bars
+  - name: Ejecucion
+    link: /ad/componente1_ejecucion
+    icon: fa-running

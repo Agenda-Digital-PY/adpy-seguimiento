@@ -1,0 +1,19 @@
+alignment: is-left
+style: is-boxed
+size: is-large
+items:
+  - name: Empresarial
+    link: /ad/componente2
+    icon: fa-at
+  - name: Resultados Esperados
+    link: /ad/componente2_resultados_esperados
+    icon: fa-cart-arrow-down
+  - name: Productos
+    link: /ad/componente2_productos
+    icon: fa-barcode
+  - name: Licitaciones
+    link: /ad/componente2_licitaciones
+    icon: fa-bars
+  - name: Ejecución
+    link: /ad/componente2_ejecucion
+    icon: fa-running

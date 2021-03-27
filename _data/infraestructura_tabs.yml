@@ -1,0 +1,19 @@
+alignment: is-left
+style: is-boxed
+size: is-large
+items:
+  - name: Infraestructura
+    link: /ad/componente3
+    icon: fa-at
+  - name: Resultados Esperados
+    link: /ad/componente3_resultados_esperados
+    icon: fa-cart-arrow-down
+  - name: Productos
+    link: /ad/componente3_productos
+    icon: fa-barcode
+  - name: Licitaciones
+    link: /ad/componente3_licitaciones
+    icon: fa-bars
+  - name: Ejecución
+    link: /ad/componente3_ejecucion
+    icon: fa-running

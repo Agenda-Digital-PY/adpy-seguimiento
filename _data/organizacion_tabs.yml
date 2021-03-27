@@ -1,0 +1,19 @@
+alignment: is-left
+style: is-boxed
+size: is-large
+items:
+  - name: Organizacion
+    link: /ad/componente4
+    icon: fa-at
+  - name: Resultados Esperados
+    link: /ad/componente4_resultados_esperados
+    icon: fa-cart-arrow-down
+  - name: Productos
+    link: /ad/componente4_productos
+    icon: fa-barcode
+  - name: Licitaciones
+    link: /ad/componente4_licitaciones
+    icon: fa-bars
+  - name: Ejecución
+    link: /ad/componente4_ejecucion
+    icon: fa-running

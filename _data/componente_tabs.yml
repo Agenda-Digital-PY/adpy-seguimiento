@@ -1,0 +1,19 @@
+alignment: is-left
+style: is-boxed
+size: is-large
+items:
+  - name: e-GoB
+    link: /ad/componente1
+    icon: fa-smile-wink
+  - name: Empresarial
+    link: /ad/componente2
+    icon: fa-angle-double-right
+  - name: Infraestructura
+    link: /ad/componente3
+    icon: fa-ellipsis-v
+  - name: Organizacion
+    link: /ad/componente4
+    icon: fa-bars
+  - name: Administración
+    link: /ad/componente5
+    icon: fa-bars    
