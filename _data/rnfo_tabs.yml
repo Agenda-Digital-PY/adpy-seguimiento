@@ -1,0 +1,22 @@
+alignment: is-left
+style: is-boxed
+size: is-large
+items:
+  - name: RNFO
+    link: /rnfos/rnfo1
+    icon: fa-at
+  - name: Resultados
+    link: /rnfos/rnfo1_resultados_esperados
+    icon: fa-cart-arrow-down
+  - name: Productos
+    link: /rnfos/rnfo1_productos
+    icon: fa-barcode
+  - name: Licitaciones
+    link: /rnfos/rnfo1_licitaciones
+    icon: fa-bars
+  - name: Ejecución
+    link: /rnfos/rnfo1_ejecucion
+    icon: fa-running
+  - name: Información
+    link: /rnfos/rnfo1_pedidos_informacion
+    icon: fa-question
