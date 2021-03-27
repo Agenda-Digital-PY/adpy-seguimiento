@@ -24,4 +24,4 @@ Actualmente, se  realizanen  coordinación  con  la  Gerencia  Técnica  de  COP
 
 El cronograma ya se ha extendido ampliamente, sin que exista penalizaciones para nadie.
 
-[![Pizarra](/adpy-seguimiento/img/planRNFO.png)](https://docs.google.com/spreadsheets/d/1c2h5uiQq0oawNxW6sqPwzzKinOQah-SICNoHN0eDaKw/edit?usp=sharing)
+[![Cronograma de la licitación](/adpy-seguimiento/img/planRNFO.png)](https://docs.google.com/spreadsheets/d/1c2h5uiQq0oawNxW6sqPwzzKinOQah-SICNoHN0eDaKw/edit?usp=sharing)
