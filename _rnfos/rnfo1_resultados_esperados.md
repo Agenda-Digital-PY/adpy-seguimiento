@@ -6,4 +6,5 @@ layout: page
 tabs: rnfo_tabs
 ---
 
-No se tienen datos de las metas esperadas para el proyecto, en general, tampoco se han especificado indicadores ni espacio ni tiempo para la conclusión del proyecto
+|Indicador| Unidad | Línea Base | 2019 | 2020 | 2021|2022 | 2023 | 2024 | 2025|Meta Final | Verificación |
+|No se ha identificado un indicador | ? | ? ||||||||||

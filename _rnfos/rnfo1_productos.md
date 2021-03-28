@@ -6,16 +6,9 @@ layout: page
 tabs: rnfo_tabs
 ---
 
-Si bien no se tiene un documento donde se explique cada parte del proyecto, creemos que la intención es integrar las redes de:
-
-- COPACO
-- VOX
-- ANDE
-- Ministerio de Hacienda
-- Ministerio del Interior
-
-Donde se conectaran los diferentes sitios de:
-
-- Hospitales
-- Escuelas
-- Comisarias
+|#| Producto | Unidad de Medida| Línea Base|Peralta|Brunetti|Saguier|Esperado|
+|-|--------------------|-----------------|-------- |-----------|--|-|-|
+|1|Troncal?|||||||
+|2|Hospitales?|||||||
+|3|Escuelas?|||||||
+|4|comisarias?|||||||
