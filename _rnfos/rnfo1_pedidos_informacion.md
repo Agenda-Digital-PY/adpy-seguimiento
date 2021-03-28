@@ -8,6 +8,7 @@ tabs: rnfo_tabs
 
 |Nro Solicitud|Fecha|Titulo|Conformidad|
 |[39500](https://informacionpublica.paraguay.gov.py/portal/#!/ciudadano/solicitud/39500)|21/02/2021|Gestión de la Red Nacional de Fibra Optica - Primer Pedido|fa-angry|
+|[39127](https://informacionpublica.paraguay.gov.py/portal/#!/ciudadano/solicitud/39127)|10/02/2021|Notas sobre la RNFO|fa-angry|
 |[36890](https://informacionpublica.paraguay.gov.py/portal/#!/ciudadano/solicitud/36890)|19/11/2020|Suciedad de la Fibra Óptica|fa-angry|
 |[36845](https://informacionpublica.paraguay.gov.py/portal/#!/ciudadano/solicitud/36845)|18/11/2020|RNFO (HACIENDA) 2|fa-angry|
 |[36229](https://informacionpublica.paraguay.gov.py/portal/#!/ciudadano/solicitud/36229)|12/11/2020|RNFO (MSPBS)|fa-angry|
