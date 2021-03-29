@@ -1,0 +1,93 @@
+---
+layout: default
+---
+
+{% if page.features %}
+  <div class="section">
+    <div class="container has-text-centered">
+      <div class="columns">
+        <div class="column">
+          <div class = "card">
+            <div class= "card-content">
+              <p class="bd-notification is-info title is-6 has-text-centered">Tiempo de ejecución del proyecto</p>
+              <div class="content">
+                <span class="progress-left"><span class="progress-bar">
+                  <progress id="progressb" class="progress-left" value="80" max="100"></progress>
+                </span></span>
+              </div>
+              <footer class="card-footer">
+                <p id="progressc" class="progress-value is-white" role="progressbar">80% Completado</p>
+              </footer>        
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="section">
+    <div class="container has-text-centered py-3">
+      <div class="columns is-centered is-multiline py-4">
+        {% for feature in page.features %}
+        <div class="column is-5 is-4-widescreen mb-5">
+          <div class="card large">
+            <div class= "card-content">
+              <p class="bd-notification is-info title is-6 has-text-centered">{{ feature.label }}</p>
+              <div class="progress" data-percentage="{{ feature.meter }}">
+                <span class="progress-left"><span class="progress-bar"></span></span>
+                <span class="progress-right"><span class="progress-bar"></span></span>
+                <div class="progress-value">
+                  <div>
+                    {{ feature.meter }}%<br>
+                    <span>completado</span>
+                  </div>
+                </div>
+              </div>
+              <footer class="card-footer has-text-centered">
+                <div class="columns is-mobile">
+                  <div class="column">
+                    <p class="bd-notification is-info title is-4 has-text-centered">{{ feature.resultados }}</p>
+                    <p class="bd-notification is-info has-text-centered">Resultado</p>
+                  </div>
+                  <div class="column">
+                    <p class="bd-notification is-info title is-4 has-text-centered">{{ feature.productos }}</p>
+                    <p class="bd-notification is-info has-text-centered">Productos</p>
+                  </div>
+                  <div class="column">
+                    <p class="bd-notification is-info title is-4 has-text-centered">{{ feature.cumplidos }}</p>
+                    <p class="bd-notification is-info has-text-centered">Cumplidos</p>
+                  </div>
+                </div>        
+              </footer>        
+            </div>
+          </div>
+
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+{% endif %}
+
+<script src = "https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+
+<script>
+  var countDownProDate = new Date('12/6/2024');
+  var startProDate = new Date('12/6/2019');
+  var now = new Date();
+  var distanceProWhole = countDownProDate - startProDate;
+  var distanceProConsumed =  now - startProDate;
+  var progress = Math.floor( distanceProConsumed * 100 / distanceProWhole );
+  $('#progressb').attr({'max': 100,'value': progress});
+  $('#progressc').html(progress + "% Completado");
+
+</script>
+
+<style>
+  body {
+    margin:2rem;
+  }
+   
+  .progress::-webkit-progress-value {
+    transition: width 0.5s ease;
+  }
+</style>

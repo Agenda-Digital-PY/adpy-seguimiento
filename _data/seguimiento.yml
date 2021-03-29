@@ -1,0 +1,15 @@
+alignment: is-left
+style: is-boxed
+size: is-large
+items:
+  - name: RNFO
+    meter: 100%
+    idicadores: 1
+    enproceso: 1
+    cumplidas: 1
+  - name: e-Gov
+    meter: 1,2%
+    idicadores: 1
+    enproceso: 1
+    cumplidas: 1
+
